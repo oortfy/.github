@@ -1,4 +1,4 @@
-# OORTFY - Streamlining Software Development
+# OORTFY - Leading Edge
 
 ![OORTFY Logo](https://raw.githubusercontent.com/oortfy/oortfy/main/logo.png)
 
