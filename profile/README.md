@@ -1,6 +1,6 @@
 # OORTFY - Streamlining Software Development
 
-![OORTFY Logo](https://raw.githubusercontent.com/oortfy/oortfy/main/%5Bremoval.ai%5D_tmp-63d1a46b97dfd_591J7E.png)
+![OORTFY Logo](https://raw.githubusercontent.com/oortfy/oortfy/main/logo.png)
 
 OORTFY is a leading-edge software company dedicated to transforming the software development industry. Our revolutionary SAS platform streamlines the entire software development lifecycle, from ideation to deployment, offering developers and DevOps teams an unparalleled productivity boost of up to 100x.
 
